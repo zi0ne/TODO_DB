@@ -226,67 +226,19 @@
       },
       {
         "id": 29,
-        "title":"메타,160% 급등에도 비싸보이지 않는 이유",
-        "category": "경제",
-        "url":"https://n.news.naver.com/mnews/article/018/0005539968?sid=101",
+        "title":"생성AI 시장 선도",
+        "category": "테크",
+        "url":"https://n.news.naver.com/mnews/article/092/0002300298?sid=105",
         "published": "2023.07.28",
         "img":"29.png"
       },
       {
         "id": 30,
-        "title":"산타나 밀워키로 트레이드, 최지만에게 희소식?",
-        "category": "스포츠",
-        "url":"https://sports.news.naver.com/news?oid=468&aid=0000965803",
-        "published": "2023.07.28",
-        "img":"30.png"
-      },
-      {
-        "id": 31,
-        "title":"AI휴먼 명가···글로벌시장도 본격 공략",
-        "category": "테크",
-        "url":"https://n.news.naver.com/mnews/article/092/0002300305?sid=105",
-        "published": "2023.07.28",
-        "img":"31.png"
-      },
-      {
-        "id": 32,
-        "title":"'양보다 질' 앞세운 WHO 새 지침",
-        "category": "의학",
-        "url":"https://n.news.naver.com/mnews/article/296/0000068176?sid=103",
-        "published": "2023.07.28",
-        "img":"32.png"
-      },
-      {
-        "id": 33,
-        "title":"생성AI 시장 선도",
-        "category": "테크",
-        "url":"https://n.news.naver.com/mnews/article/092/0002300298?sid=105",
-        "published": "2023.07.28",
-        "img":"33.png"
-      },
-      {
-        "id": 34,
         "title":"인텔, PC 사업 호조에 깜짝 실적",
         "category": "경제",
         "url":"https://n.news.naver.com/mnews/article/008/0004918424?sid=101",
         "published": "2023.07.28",
-        "img": "34.png"
-      },
-      {
-        "id": 35,
-        "title":"오아시스 노엘 갤러거, 4년 만에 내한",
-        "category": "연예",
-        "url":"https://entertain.naver.com/now/read?oid=109&aid=0004896980",
-        "published": "2023.07.28",
-        "img":"35.png"
-      },
-      {
-        "id": 36,
-        "title":"여권 없이 출국절차 진행",
-        "category": "경제",
-        "url":"https://n.news.naver.com/mnews/article/659/0000013541?sid=101",
-        "published": "2023.07.28",
-        "img": "36.png"
+        "img": "30.png"
       }
     ]
   }
