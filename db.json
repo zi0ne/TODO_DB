@@ -1,24 +1,292 @@
 {
-    "todos": [
+    "news": [
+      {
+        "id": 1,
+        "title":"대구시, 상수원보호구역 내 야영 등 불법행위 특별단속",
+        "category": "환경",
+        "url":"https://n.news.naver.com/mnews/article/001/0014098999?sid=102",
+        "published": "2023.07.28",
+        "img":"1.png"
+      },
       {
         "id": 2,
-        "text": "프로젝트 중간보고",
-        "done": false
+        "title":"'D.P.' 시즌2, 오늘(28일) 공개",
+        "category": "연예",
+        "url":"https://entertain.naver.com/now/read?oid=469&aid=0000752280",
+        "published": "2023.07.28",
+        "img":"2.png"
       },
       {
         "id": 3,
-        "text": "포트폴리오작성",
-        "done": false
+        "title":"수해에 전쟁·이상기후까지, 먹거리 비상",
+        "category": "환경",
+        "url":"https://n.news.naver.com/mnews/article/001/0014098952?sid=102",
+        "published": "2023.07.28",
+        "img":"3.png"
       },
       {
         "id": 4,
-        "text": "운동하기",
-        "done": false
+        "title":"오타니, 'ML 147년 최초'기록",
+        "category": "스포츠",
+        "url":"https://sports.news.naver.com/news?oid=108&aid=0003170694",
+        "published": "2023.07.28",
+        "img":"4.png"
       },
       {
         "id": 5,
-        "text": "회고록 작성",
-        "done": false
+        "title":"당뇨병 치료제, 지방간염 억제 효과 확인",
+        "category": "의학",
+        "url":"https://n.news.naver.com/mnews/article/346/0000063262?sid=103",
+        "published": "2023.07.28",
+        "img":"5.png"
+      },
+      {
+        "id": 6,
+        "title":"랜섬웨어, 2분기에만 1311건",
+        "category": "테크",
+        "url":"https://n.news.naver.com/mnews/article/003/0012000459?sid=105",
+        "published": "2023.07.28",
+        "img":"6.png"
+      },
+      {
+        "id": 7,
+        "title":"경제",
+        "category": "삼성 폴더블폰 3천만대 넘어설것",
+        "url":"https://n.news.naver.com/mnews/article/009/0005165162?sid=101",
+        "published": "2023.07.28",
+        "img":"7.png"
+      },
+      {
+        "id": 8,
+        "title":"다음주도 폭염에 열대야…태풍 영향은 없을 듯",
+        "category": "환경",
+        "url":"https://n.news.naver.com/mnews/article/001/0014098635?sid=102",
+        "published": "2023.07.28",
+        "img":"8.png"
+      },
+      {
+        "id": 9,
+        "title":"JYP “이준호 악플러, 300만 원 벌금형 확정”",
+        "category": "연예",
+        "url":"https://entertain.naver.com/now/read?oid=021&aid=0002585430",
+        "published": "2023.07.28",
+        "img":"9.png"
+      },
+      {
+        "id": 10,
+        "title":"잠 부족하면 뚱뚱해진다",
+        "category": "의학",
+        "url":"https://n.news.naver.com/mnews/article/001/0014098572?sid=103",
+        "published": "2023.07.28",
+        "img":"10.png"
+      },
+      {
+        "id": 11,
+        "title":"MS, '美 정부기관 이메일 해킹'",
+        "category": "테크",
+        "url":"https://n.news.naver.com/mnews/article/001/0014097701?sid=105",
+        "published": "2023.07.28",
+        "img":"11.png"
+      },
+      {
+        "id": 12,
+        "title":"뮌헨, 드디어 '해리 케인 영입' 담판 짓는다",
+        "category": "스포츠",
+        "url":"https://sports.news.naver.com/news?oid=413&aid=0000163557",
+        "published": "2023.07.28",
+        "img":"12.png"
+      },
+      {
+        "id": 13,
+        "title":"마블 리셋하고 다시 시작해야",
+        "category": "연예",
+        "url":"https://entertain.naver.com/now/read?oid=213&aid=0001264837",
+        "published": "2023.07.28",
+        "img":"13.png"
+      },
+      {
+        "id": 14,
+        "title":"중국, 태평양 섬나라들에 '日오염수 방류 반대해야",
+        "category": "환경",
+        "url":"https://n.news.naver.com/mnews/article/001/0014097947?sid=102",
+        "published": "2023.07.28",
+        "img":"14.png"
+      },
+      {
+        "id": 15,
+        "title":"황선우와 '황금세대', 男 계영 800m 한국신 작성",
+        "category": "스포츠",
+        "url":"https://sports.news.naver.com/news?oid=311&aid=0001621356",
+        "published": "2023.07.28",
+        "img":"15.png"
+      },
+      {
+        "id": 16,
+        "title":"안랩, 2023년 상반기 영업이익 65억",
+        "category": "테크",
+        "url":"https://n.news.naver.com/mnews/article/092/0002300266?sid=105",
+        "published": "2023.07.28",
+        "img":"16.png"
+      },
+      {
+        "id": 17,
+        "title":"그알', 휴대폰 괴담 추적",
+        "category": "연예",
+        "url":"https://entertain.naver.com/now/read?oid=416&aid=0000297631",
+        "published": "2023.07.28",
+        "img":"17.png"
+      },
+      {
+        "id": 18,
+        "title":"계단 오를 때 숨 가쁜 사람...하루 걸음 '이 정도' 좋아",
+        "category": "의학",
+        "url":"https://n.news.naver.com/mnews/article/296/0000068175?sid=103",
+        "published": "2023.07.28",
+        "img":"18.png"
+      },
+      {
+        "id": 19,
+        "title":"SON은 믿고 쓰는 선수!",
+        "category": "스포츠",
+        "url":"https://sports.news.naver.com/news?oid=139&aid=0002186651",
+        "published": "2023.07.28",
+        "img":"19.png"
+      },
+      {
+        "id": 20,
+        "title":"폭염 속 ‘냉방병’ 주의보",
+        "category": "의학",
+        "url":"https://n.news.naver.com/mnews/article/014/0005049254?sid=103",
+        "published": "2023.07.28",
+        "img":"20.png"
+      },
+      {
+        "id": 21,
+        "title":"자동차 날고, 조선 뛰고, 반도체는 바닥 확인",
+        "category": "경제",
+        "url":"https://n.news.naver.com/mnews/article/119/0002735213?sid=101",
+        "published": "2023.07.28",
+        "img":"21.png"
+      },
+      {
+        "id": 22,
+        "title":"일본은행, 긴축으로 방향 틀었다",
+        "category": "경제",
+        "url":"https://n.news.naver.com/mnews/article/215/0001116267?sid=101",
+        "published": "2023.07.28",
+        "img":"22.png"
+      },
+      {
+        "id": 23,
+        "title":"6호 태풍 '카눈' 발생…다음 주 한반도 접근 북상",
+        "category": "환경",
+        "url":"https://n.news.naver.com/mnews/article/422/0000611366?sid=102",
+        "published": "2023.07.28",
+        "img":"23.png"
+      },
+      {
+        "id": 24,
+        "title":"'스우파2', 첫 방송 전부터 핫하다",
+        "category": "연예",
+        "url":"https://entertain.naver.com/now/read?oid=312&aid=0000620762",
+        "published": "2023.07.28",
+        "img":"24.png"
+      },
+      {
+        "id": 25,
+        "title":"류현진 구속 계속 증가·커맨드 만족",
+        "category": "스포츠",
+        "url":"https://sports.news.naver.com/news?oid=382&aid=0001066126",
+        "published": "2023.07.28",
+        "img":"25.png"
+      },
+      {
+        "id": 26,
+        "title":"자율주행버스 국내 최고···해외서도 호평",
+        "category": "테크",
+        "url":"https://n.news.naver.com/mnews/article/092/0002300270?sid=105",
+        "published": "2023.07.28",
+        "img":"26.png"
+      },
+      {
+        "id": 27,
+        "title":"방역용 소독제 겉면에 '공기소독 금지' 표시 의무화",
+        "category": "환경",
+        "url":"https://n.news.naver.com/mnews/article/003/0012001100?sid=102",
+        "published": "2023.07.28",
+        "img":"27.png"
+      },
+      {
+        "id": 28,
+        "title":"감기 항생제 처방률 20년새 급감했지만… 목표치엔 미달",
+        "category": "의학",
+        "url":"https://n.news.naver.com/mnews/article/022/0003839143?sid=103",
+        "published": "2023.07.28",
+        "img":"28.png"
+      },
+      {
+        "id": 29,
+        "title":"메타,160% 급등에도 비싸보이지 않는 이유",
+        "category": "경제",
+        "url":"https://n.news.naver.com/mnews/article/018/0005539968?sid=101",
+        "published": "2023.07.28",
+        "img":"29.png"
+      },
+      {
+        "id": 30,
+        "title":"산타나 밀워키로 트레이드, 최지만에게 희소식?",
+        "category": "스포츠",
+        "url":"https://sports.news.naver.com/news?oid=468&aid=0000965803",
+        "published": "2023.07.28",
+        "img":"30.png"
+      },
+      {
+        "id": 31,
+        "title":"AI휴먼 명가···글로벌시장도 본격 공략",
+        "category": "테크",
+        "url":"https://n.news.naver.com/mnews/article/092/0002300305?sid=105",
+        "published": "2023.07.28",
+        "img":"31.png"
+      },
+      {
+        "id": 32,
+        "title":"'양보다 질' 앞세운 WHO 새 지침",
+        "category": "의학",
+        "url":"https://n.news.naver.com/mnews/article/296/0000068176?sid=103",
+        "published": "2023.07.28",
+        "img":"32.png"
+      },
+      {
+        "id": 33,
+        "title":"생성AI 시장 선도",
+        "category": "테크",
+        "url":"https://n.news.naver.com/mnews/article/092/0002300298?sid=105",
+        "published": "2023.07.28",
+        "img":"33.png"
+      },
+      {
+        "id": 34,
+        "title":"인텔, PC 사업 호조에 깜짝 실적",
+        "category": "경제",
+        "url":"https://n.news.naver.com/mnews/article/008/0004918424?sid=101",
+        "published": "2023.07.28",
+        "img": "34.png"
+      },
+      {
+        "id": 35,
+        "title":"오아시스 노엘 갤러거, 4년 만에 내한",
+        "category": "연예",
+        "url":"https://entertain.naver.com/now/read?oid=109&aid=0004896980",
+        "published": "2023.07.28",
+        "img":"35.png"
+      },
+      {
+        "id": 36,
+        "title":"여권 없이 출국절차 진행",
+        "category": "경제",
+        "url":"https://n.news.naver.com/mnews/article/659/0000013541?sid=101",
+        "published": "2023.07.28",
+        "img": "36.png"
       }
     ]
   }
