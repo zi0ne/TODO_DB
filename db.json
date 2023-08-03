@@ -6,7 +6,7 @@
         "category": "환경",
         "url":"https://n.news.naver.com/mnews/article/001/0014098999?sid=102",
         "published": "2023.07.28",
-        "img":"1.png"
+        "img":"1.jpg"
       },
       {
         "id": 2,
@@ -14,7 +14,7 @@
         "category": "연예",
         "url":"https://entertain.naver.com/now/read?oid=469&aid=0000752280",
         "published": "2023.07.28",
-        "img":"2.png"
+        "img":"2.jpg"
       },
       {
         "id": 3,
@@ -22,7 +22,7 @@
         "category": "환경",
         "url":"https://n.news.naver.com/mnews/article/001/0014098952?sid=102",
         "published": "2023.07.28",
-        "img":"3.png"
+        "img":"3.jpg"
       },
       {
         "id": 4,
@@ -30,7 +30,7 @@
         "category": "스포츠",
         "url":"https://sports.news.naver.com/news?oid=108&aid=0003170694",
         "published": "2023.07.28",
-        "img":"4.png"
+        "img":"4.jpg"
       },
       {
         "id": 5,
@@ -38,7 +38,7 @@
         "category": "의학",
         "url":"https://n.news.naver.com/mnews/article/346/0000063262?sid=103",
         "published": "2023.07.28",
-        "img":"5.png"
+        "img":"5.jpg"
       },
       {
         "id": 6,
@@ -46,7 +46,7 @@
         "category": "테크",
         "url":"https://n.news.naver.com/mnews/article/003/0012000459?sid=105",
         "published": "2023.07.28",
-        "img":"6.png"
+        "img":"6.jpg"
       },
       {
         "id": 7,
@@ -54,7 +54,7 @@
         "category": "경제",
         "url":"https://n.news.naver.com/mnews/article/009/0005165162?sid=101",
         "published": "2023.07.28",
-        "img":"7.png"
+        "img":"7.jpg"
       },
       {
         "id": 8,
@@ -62,7 +62,7 @@
         "category": "환경",
         "url":"https://n.news.naver.com/mnews/article/001/0014098635?sid=102",
         "published": "2023.07.28",
-        "img":"8.png"
+        "img":"8.jpg"
       },
       {
         "id": 9,
@@ -70,7 +70,7 @@
         "category": "연예",
         "url":"https://entertain.naver.com/now/read?oid=021&aid=0002585430",
         "published": "2023.07.28",
-        "img":"9.png"
+        "img":"9.jpg"
       },
       {
         "id": 10,
@@ -78,7 +78,7 @@
         "category": "의학",
         "url":"https://n.news.naver.com/mnews/article/001/0014098572?sid=103",
         "published": "2023.07.28",
-        "img":"10.png"
+        "img":"10.jpg"
       },
       {
         "id": 11,
@@ -86,7 +86,7 @@
         "category": "테크",
         "url":"https://n.news.naver.com/mnews/article/001/0014097701?sid=105",
         "published": "2023.07.28",
-        "img":"11.png"
+        "img":"11.jpg"
       },
       {
         "id": 12,
@@ -94,7 +94,7 @@
         "category": "스포츠",
         "url":"https://sports.news.naver.com/news?oid=413&aid=0000163557",
         "published": "2023.07.28",
-        "img":"12.png"
+        "img":"12.jpg"
       },
       {
         "id": 13,
@@ -102,7 +102,7 @@
         "category": "연예",
         "url":"https://entertain.naver.com/now/read?oid=213&aid=0001264837",
         "published": "2023.07.28",
-        "img":"13.png"
+        "img":"13.jpg"
       },
       {
         "id": 14,
@@ -110,7 +110,7 @@
         "category": "환경",
         "url":"https://n.news.naver.com/mnews/article/001/0014097947?sid=102",
         "published": "2023.07.28",
-        "img":"14.png"
+        "img":"14.jpg"
       },
       {
         "id": 15,
@@ -118,7 +118,7 @@
         "category": "스포츠",
         "url":"https://sports.news.naver.com/news?oid=311&aid=0001621356",
         "published": "2023.07.28",
-        "img":"15.png"
+        "img":"15.jpg"
       },
       {
         "id": 16,
@@ -126,7 +126,7 @@
         "category": "테크",
         "url":"https://n.news.naver.com/mnews/article/092/0002300266?sid=105",
         "published": "2023.07.28",
-        "img":"16.png"
+        "img":"16.jpg"
       },
       {
         "id": 17,
@@ -134,7 +134,7 @@
         "category": "연예",
         "url":"https://entertain.naver.com/now/read?oid=416&aid=0000297631",
         "published": "2023.07.28",
-        "img":"17.png"
+        "img":"17.jpg"
       },
       {
         "id": 18,
@@ -142,7 +142,7 @@
         "category": "의학",
         "url":"https://n.news.naver.com/mnews/article/296/0000068175?sid=103",
         "published": "2023.07.28",
-        "img":"18.png"
+        "img":"18.jpg"
       },
       {
         "id": 19,
@@ -150,7 +150,7 @@
         "category": "스포츠",
         "url":"https://sports.news.naver.com/news?oid=139&aid=0002186651",
         "published": "2023.07.28",
-        "img":"19.png"
+        "img":"19.jpg"
       },
       {
         "id": 20,
@@ -158,87 +158,7 @@
         "category": "의학",
         "url":"https://n.news.naver.com/mnews/article/014/0005049254?sid=103",
         "published": "2023.07.28",
-        "img":"20.png"
-      },
-      {
-        "id": 21,
-        "title":"자동차 날고, 조선 뛰고, 반도체는 바닥 확인",
-        "category": "경제",
-        "url":"https://n.news.naver.com/mnews/article/119/0002735213?sid=101",
-        "published": "2023.07.28",
-        "img":"21.png"
-      },
-      {
-        "id": 22,
-        "title":"일본은행, 긴축으로 방향 틀었다",
-        "category": "경제",
-        "url":"https://n.news.naver.com/mnews/article/215/0001116267?sid=101",
-        "published": "2023.07.28",
-        "img":"22.png"
-      },
-      {
-        "id": 23,
-        "title":"6호 태풍 '카눈' 발생…다음 주 한반도 접근 북상",
-        "category": "환경",
-        "url":"https://n.news.naver.com/mnews/article/422/0000611366?sid=102",
-        "published": "2023.07.28",
-        "img":"23.png"
-      },
-      {
-        "id": 24,
-        "title":"'스우파2', 첫 방송 전부터 핫하다",
-        "category": "연예",
-        "url":"https://entertain.naver.com/now/read?oid=312&aid=0000620762",
-        "published": "2023.07.28",
-        "img":"24.png"
-      },
-      {
-        "id": 25,
-        "title":"류현진 구속 계속 증가·커맨드 만족",
-        "category": "스포츠",
-        "url":"https://sports.news.naver.com/news?oid=382&aid=0001066126",
-        "published": "2023.07.28",
-        "img":"25.png"
-      },
-      {
-        "id": 26,
-        "title":"자율주행버스 국내 최고···해외서도 호평",
-        "category": "테크",
-        "url":"https://n.news.naver.com/mnews/article/092/0002300270?sid=105",
-        "published": "2023.07.28",
-        "img":"26.png"
-      },
-      {
-        "id": 27,
-        "title":"방역용 소독제 겉면에 '공기소독 금지' 표시 의무화",
-        "category": "환경",
-        "url":"https://n.news.naver.com/mnews/article/003/0012001100?sid=102",
-        "published": "2023.07.28",
-        "img":"27.png"
-      },
-      {
-        "id": 28,
-        "title":"감기 항생제 처방률 20년새 급감했지만… 목표치엔 미달",
-        "category": "의학",
-        "url":"https://n.news.naver.com/mnews/article/022/0003839143?sid=103",
-        "published": "2023.07.28",
-        "img":"28.png"
-      },
-      {
-        "id": 29,
-        "title":"생성AI 시장 선도",
-        "category": "테크",
-        "url":"https://n.news.naver.com/mnews/article/092/0002300298?sid=105",
-        "published": "2023.07.28",
-        "img":"29.png"
-      },
-      {
-        "id": 30,
-        "title":"인텔, PC 사업 호조에 깜짝 실적",
-        "category": "경제",
-        "url":"https://n.news.naver.com/mnews/article/008/0004918424?sid=101",
-        "published": "2023.07.28",
-        "img": "30.png"
+        "img":"20.jpg"
       }
     ]
   }
